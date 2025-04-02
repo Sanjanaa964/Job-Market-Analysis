@@ -50,7 +50,7 @@ After preprocessing the data to clean outliers, standardize job titles, and conv
 
 ## 🌐 Live Dashboard
 
-👉 **[View the Tableau Dashboard]([https://public.tableau.com/app/profile/sanjanaa.sridhar/viz/JobMarketAnalysisDashboard/MainDashboard](https://public.tableau.com/app/profile/sanjanaa.sridhar/viz/JobMarketAnalysis_17435658567300/Dashboard1?publish=yes))**  
+👉 **[View the Tableau Dashboard]([https://public.tableau.com/app/profile/sanjanaa.sridhar/viz/JobMarketAnalysisDashboard/MainDashboard](https://public.tableau.com/app/profile/sanjanaa.sridhar/viz/JobMarketAnalysis_17435658567300/Dashboard1?publish=yes)**  
 (*Make sure to publish your Tableau link first if you haven’t yet*)
 
 ## 📁 Project Structure
